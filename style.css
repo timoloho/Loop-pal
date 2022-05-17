@@ -1,12 +1,12 @@
 * {
     margin: 0;
    padding: 0;
+
  }
 
-.header{
-    
+.header {
+height: ;
 }
-
 .home_menu {
     display: grid;
     grid-template-columns: auto auto auto;
