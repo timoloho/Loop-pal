@@ -6,7 +6,7 @@
 .header{
     width: screen;
     height: 250px;
-    border-bottom: solid 1px;
+    border: solid 1px;
     position: relative;
 }
 .header img{
