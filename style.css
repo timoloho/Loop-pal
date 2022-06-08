@@ -3,15 +3,24 @@
     margin: 0;
     text-decoration: none;
 }
+body{
+    background-image: url('site-bg.png');
+    /* background-image: repeating-radial-gradient(red, yellow 10%, green 15%); */
+}
 .header{
     width: screen;
     height: 250px;
     position: relative;
-    border: solid 1px black;
     border-radius: 30px;
     margin: 10px;
+}
+.inner{
     /* background-color: black; */
-    /* opacity: .1; */
+    /* opacity: .3; */
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
 }
 .header img{
     height: 200px;
@@ -24,7 +33,7 @@
 .search-container{
     width: 450px;
     height: 100px;
-    background-color: 0;
+    /* background-color: blue; */
     position: absolute;
     display: flex;
     justify-content: flex-end;
@@ -113,7 +122,7 @@
     display: grid;
     grid-template-columns: auto;
 }
-.viis{
+.five{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 }
@@ -135,3 +144,4 @@
     border: none;
     background-color: transparent;
     font-size: 25px;
+}
