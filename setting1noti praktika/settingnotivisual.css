@@ -1,0 +1,216 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#edf1eb;
+    ;
+}
+
+div {
+    background-color: #b3c5ad98;
+    width: 18;
+    border: 3px solid #b3c5ad;
+    margin: 10px;
+    border-radius: 25px;
+  }
+
+.home321 {
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    left: 7%;
+    top: 4%;
+    cursor: pointer;
+}
+
+.settings {
+    margin: 13px;
+    width: 4%;
+    border: 3px solid #b3c5ad;
+    padding: 2px;
+    background-color: #b3c5ad;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.Logo {
+    width: 5%;
+    position: absolute;
+    Top: 6%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.acc {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    Top: 3%;
+    right: 2%;
+    cursor: pointer;
+}
+
+.stt {
+    width: 50px;
+    height: 40px;
+    position: absolute;
+    Top: 4%;
+    right: 5.6%;
+    cursor: pointer;
+}
+
+.suda {
+    width: 60px;
+    height: 40px;
+    position: absolute;
+    Top: 4%;
+    right: 7.9%;
+    cursor: pointer;
+}
+
+.mess {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    Top: 4.4%;
+    right: 11%;
+    cursor: pointer;
+}
+
+.setexpbar {
+    width: 200px;
+    height: 220px;
+    position: absolute;
+    Top: 13%;
+    left: 1%;
+}
+
+
+h3 {
+    cursor: pointer;
+}
+
+.Notif {
+    position: absolute;
+    Top: 13%;
+    left: 14%; 
+}
+
+
+.brw {
+    position: absolute;
+    Top: 18%;
+    left: 14%; 
+}
+
+.brwtext {
+    position: absolute;
+    Top: 22%;
+    left: 16%; 
+}
+
+.brwtext2 {
+    position: absolute;
+    Top: 25%;
+    left: 16%; 
+}
+
+.mail2 {
+    position: absolute;
+    Top: 30%;
+    left: 14%; 
+}
+
+
+
+.txtx1 {
+    position: absolute;
+    Top: 34%;
+    left: 16%; 
+}
+
+.txtx2 {
+    position: absolute;
+    Top: 37%;
+    left: 16%; 
+}
+
+.txtx3 {
+    position: absolute;
+    Top: 40%;
+    left: 16%; 
+}
+
+.txtx4 {
+    position: absolute;
+    Top: 43%;
+    left: 16%; 
+}
+
+.txtx5 {
+    position: absolute;
+    Top: 46%;
+    left: 16%; 
+}
+
+.txtx6 {
+    position: absolute;
+    Top: 49%;
+    left: 16%; 
+}
+
+.txtx7 {
+    position: absolute;
+    Top: 52%;
+    left: 16%; 
+}
+
+.SMSS {
+    position: absolute;
+    Top: 55%;
+    left: 14%; 
+}
+
+.xt1 {
+    position: absolute;
+    Top: 59%;
+    left: 16%; 
+} 
+
+.xt2 {
+    position: absolute;
+    Top: 62%;
+    left: 16%; 
+} 
+
+.xt3 {
+    position: absolute;
+    Top: 65%;
+    left: 16%; 
+} 
+
+.xt4 {
+    position: absolute;
+    Top: 68%;
+    left: 16%; 
+} 
+
+.xt5 {
+    position: absolute;
+    Top: 71%;
+    left: 16%; 
+} 
+
+.xt6 {
+    position: absolute;
+    Top: 74%;
+    left: 16%; 
+} 
+
+.xt7 {
+    position: absolute;
+    Top: 77%;
+    left: 16%; 
+} 
+
+

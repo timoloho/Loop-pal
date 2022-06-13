@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#edf1eb;
+    ;
+}
+
+div {
+    background-color: #b3c5ad98;
+    width: 18;
+    border: 3px solid #b3c5ad;
+    margin: 10px;
+    border-radius: 25px;
+  }
+
+.home321 {
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    left: 7%;
+    top: 4%;
+    cursor: pointer;
+}
+
+.FAQ1SA {
+    margin: 13px;
+    width: 4%;
+    border: 3px solid #b3c5ad;
+    padding: 2px;
+    background-color: #b3c5ad;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.Logo {
+    width: 5%;
+    position: absolute;
+    Top: 6%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.acc {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    Top: 3%;
+    right: 2%;
+    cursor: pointer;
+}
+
+.stt {
+    width: 50px;
+    height: 40px;
+    position: absolute;
+    Top: 4%;
+    right: 5.6%;
+    cursor: pointer;
+}
+
+.suda {
+    width: 60px;
+    height: 40px;
+    position: absolute;
+    Top: 4%;
+    right: 7.9%;
+    cursor: pointer;
+}
+
+.mess {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    Top: 4.4%;
+    right: 11%;
+    cursor: pointer;
+}

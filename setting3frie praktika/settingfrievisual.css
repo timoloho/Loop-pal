@@ -1,0 +1,349 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#edf1eb;
+    ;
+}
+
+div {
+    background-color: #b3c5ad98;
+    width: 18;
+    border: 3px solid #b3c5ad;
+    margin: 10px;
+    border-radius: 25px;
+  }
+
+.home321 {
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    left: 7%;
+    top: 4%;
+    cursor: pointer;
+}
+
+.settings {
+    margin: 13px;
+    width: 4%;
+    border: 3px solid #b3c5ad;
+    padding: 2px;
+    background-color: #b3c5ad;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.Logo {
+    width: 5%;
+    position: absolute;
+    Top: 6%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.acc {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    Top: 3%;
+    right: 2%;
+    cursor: pointer;
+}
+
+.stt {
+    width: 50px;
+    height: 40px;
+    position: absolute;
+    Top: 4%;
+    right: 5.6%;
+    cursor: pointer;
+}
+
+.suda {
+    width: 60px;
+    height: 40px;
+    position: absolute;
+    Top: 4%;
+    right: 7.9%;
+    cursor: pointer;
+}
+
+.mess {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    Top: 4.4%;
+    right: 11%;
+    cursor: pointer;
+}
+
+.setexpbar {
+    width: 200px;
+    height: 220px;
+    position: absolute;
+    Top: 13%;
+    left: 1%;
+}
+
+
+h3 {
+    cursor: pointer;
+}
+
+.Notif {
+    position: absolute;
+    Top: 13%;
+    left: 14%; 
+}
+
+.FL {
+    position: absolute;
+    Top: 13%;
+    left: 14%; 
+}
+
+.n1 {
+    position: absolute;
+    Top: 18%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn1 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 19%;
+    left: 14.5%;
+}
+
+.rn1 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 19%;
+    left: 21%;
+    cursor: pointer;
+}
+
+.n2 {
+    position: absolute;
+    Top: 21%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn2 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 22%;
+    left: 14.5%;
+}
+
+.rn2 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 22%;
+    left: 21%;
+    cursor: pointer;
+}
+
+
+.n3 {
+    position: absolute;
+    Top: 24%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn3 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 25%;
+    left: 14.5%;
+}
+
+.rn3 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 25%;
+    left: 21%;
+    cursor: pointer;
+}
+
+
+.n4 {
+    position: absolute;
+    Top: 27%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn4 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 28%;
+    left: 14.5%;
+}
+
+.rn4 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 28%;
+    left: 21%;
+    cursor: pointer;
+}
+
+
+.n5 {
+    position: absolute;
+    Top: 30%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn5 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 31%;
+    left: 14.5%;
+}
+
+.rn5 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 31%;
+    left: 21%;
+    cursor: pointer;
+}
+
+
+.n6 {
+    position: absolute;
+    Top: 33%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn6 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 34%;
+    left: 14.5%;
+}
+
+.rn6 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 34%;
+    left: 21%;
+    cursor: pointer;
+}
+
+
+.n7 {
+    position: absolute;
+    Top: 36%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn7 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 37%;
+    left: 14.5%;
+    cursor: pointer;
+}
+
+.rn7 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 37%;
+    left: 21%;
+}
+
+.n8 {
+    position: absolute;
+    Top: 39%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn8 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 40%;
+    left: 14.5%;
+}
+
+.rn8 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 40%;
+    left: 21%;
+    cursor: pointer;
+}
+
+.n9 {
+    position: absolute;
+    Top: 42%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn9 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 43%;
+    left: 14.5%;
+}
+
+.rn9 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 43%;
+    left: 21%;
+    cursor: pointer;
+}
+
+.n10 {
+    position: absolute;
+    Top: 45%;
+    left: 16%; 
+    font-size: 15px;
+}
+
+.nn10 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 46%;
+    left: 14.5%;
+}
+
+.rn10 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    Top: 46%;
+    left: 21%;
+    cursor: pointer;
+}
+
