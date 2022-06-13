@@ -5,7 +5,7 @@
 }
 .header{
     width: screen;
-    height: 250px;
+    height: 200px;
     border: solid 1px;
     position: relative;
     margin-left: 10px;
@@ -55,16 +55,47 @@
 
 }
 
-.created {
-    font-size: 20px;
+.upper-text {
+    margin-right: 10px;
+}
+
+.created-header {
+    font-size: 25px;
 }
 
 .created-text {
     font-size: 20px;
+    top: 20px;
+    flex-wrap: wrap;
 }
 
 .picture {
     height: 250px;
     width: 350px;
     background-color: red;
+}
+
+
+.created-text-box {
+    word-wrap: break-word;
+}
+
+.idea-header {
+    font-size: 25px;
+}
+
+.idea-text {
+    font-size: 20px;
+}
+
+.idea-text-box {
+    word-wrap: break-word
+}
+
+.lower-text {
+
+}
+
+.goal-box {
+    font-size: 25px;
 }
