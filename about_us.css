@@ -3,6 +3,11 @@
     margin: 0;
     text-decoration: none;
 }
+
+body {
+background-image: url(site-bg.png);
+}
+
 .header{
     width: screen;
     height: 200px;
@@ -92,9 +97,7 @@
     word-wrap: break-word
 }
 
-.lower-text {
 
-}
 
 .goal-box {
     font-size: 25px;
