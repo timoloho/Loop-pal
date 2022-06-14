@@ -3,6 +3,9 @@
     margin: 0;
     text-decoration: none;
 }
+body{
+    background-image: url(site-bg.png);
+}
 .header{
     width: screen;
     height: 200px;
