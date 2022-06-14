@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("backg.png");
+
+}
+
+div {
+    border: 3px solid #b3c5ad;
+    margin: 10px;
+    border-radius: 25px;
+    width: 750px;
+    height: 600px;
+    position: absolute;
+    Top: 20%;
+    right: 30%;
+  }
+
+
+.logo {
+    width: 18%;
+    position: absolute;
+    Top: 11%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Sign1 {
+    position: absolute;
+    top: 17%;
+    left: 42%;
+}
+
+.Name1 {
+    margin: 10px;
+    width: 90%;
+    height: 50px;
+    border: 3px solid #b3c5ad;
+    padding: 2px;
+    background-color: #edf1eb;
+    text-align: center;
+    font-size: 17px;
+    position: absolute;
+    top: 32%;
+    left: 3%;
+    border-radius: 15px;
+    color: lightgray;
+    text-align: left;
+    cursor: text;
+}
+
+.Username {
+    margin: 10px;
+    width: 90%;
+    height: 50px;
+    border: 3px solid #b3c5ad;
+    padding: 2px;
+    background-color: #edf1eb;
+    text-align: center;
+    font-size: 17px;
+    position: absolute;
+    top: 45%;
+    left: 3%;
+    border-radius: 15px;
+    color: lightgray;
+    text-align: left;
+    cursor: text;
+}
+
+.E-mail {
+    margin: 10px;
+    width: 90%;
+    height: 50px;
+    border: 3px solid #b3c5ad;
+    padding: 2px;
+    background-color: #edf1eb;
+    text-align: center;
+    font-size: 17px;
+    position: absolute;
+    top: 58%;
+    left: 3%;
+    border-radius: 15px;
+    color: lightgray;
+    text-align: left;
+    cursor: text;
+}
+
+.Phonenumber {
+    margin: 10px;
+    width: 90%;
+    height: 50px;
+    border: 3px solid #b3c5ad;
+    padding: 2px;
+    background-color:  #edf1eb;
+    text-align: center;
+    font-size: 17px;
+    position: absolute;
+    top: 71%;
+    left: 3%;
+    border-radius: 15px;
+    color: lightgray;
+    text-align: left;
+    cursor: text;
+}
+
+.Next {
+    margin: 10px;
+    width: 15%;
+    height: 50px;
+    border: 3px solid #b3c5ad;
+    padding: 2px;
+    background-color: #b3c5ad;
+    position: absolute;
+    top: 83%;
+    left: 77%;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
