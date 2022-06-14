@@ -30,12 +30,11 @@ body{
 .search-container{
     width: 450px;
     height: 100px;
-    /* background-color: blue; */
     position: absolute;
     display: flex;
     justify-content: flex-end;
-    right: 0px;
-    top: 150px;
+    right: 25px;
+    top: 125px;
     gap: 5px;
 }
 .searchbar .submit {

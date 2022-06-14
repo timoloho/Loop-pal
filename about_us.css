@@ -5,9 +5,13 @@
 }
 
 body {
-background-image: url(site-bg.png);
+    background-image: url(site-bg.png);
+    position: relative;
 }
-
+html{
+    width: 100%;
+    height: 100%;
+}
 .header{
     width: screen;
     height: 250px;
@@ -82,7 +86,10 @@ background-image: url(site-bg.png);
 .picture {
     height: 250px;
     width: 350px;
-    background-color: red;
+    position: absolute;
+    /* right: 350px; */
+    /* bottom: 10px; */
+    float: right;
 }
 
 
