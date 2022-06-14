@@ -5,7 +5,6 @@
 }
 body{
     background-image: url('site-bg.png');
-    /* background-image: repeating-radial-gradient(red, yellow 10%, green 15%); */
 }
 .header{
     width: screen;
@@ -15,9 +14,7 @@ body{
     margin: 10px;
 }
 .inner{
-    background-color: black;
-    opacity: .3;
-    border: 1px solid black;
+    background-color: rgba(0,0,0, .3);
     width: 100%;
     height: 100%;
     border-radius: 30px;
@@ -145,4 +142,6 @@ body{
     cursor: pointer;
     border: none;
     background-color: transparent;
+    font-size: 34px;
+    color: white;
 }
